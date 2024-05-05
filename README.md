@@ -1,1 +1,2 @@
 # school-management-system
+Developed a comprehensive School Management System using Java, providing efficient management of student and teacher data, fees tracking, and financial management functionalities. The system enables administrators to add, update, and delete student and teacher records, track student fees payments, and manage teacher salaries. Implemented object-oriented programming principles for modular and scalable code architecture.
